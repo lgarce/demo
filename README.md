@@ -5,3 +5,5 @@ https://lgarce.github.io/demo/
 
 https://lgarce.github.io/demo/barras.html
 
+https://lgarce.github.io/demo/barras2.html
+
